@@ -26,13 +26,24 @@ Below is the benchmark index for high-risk metropolitan areas across the United 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **FL** | **Miami** | Category 3+ Hurricane / Flooding | 72 – 144 Hours | **2000Wh+ (LFP)** | Refrigerator + Portable AC (8000 BTU) | [Miami Guide](https://www.wangdadi.xyz/power/florida-miami) |
 | **FL** | **Tampa** | Gulf Storm Surges / Lightning | 48 – 96 Hours | **1500Wh – 2000Wh** | Sump Pump (1/3 HP) + Medical CPAP | [Tampa Guide](https://www.wangdadi.xyz/power/florida-tampa) |
+| **FL** | **Orlando** | Inland Wind Gusts & Tree Snaps | 48 – 72 Hours | **1000Wh – 2000Wh** | Refrigerator + Wi-Fi & Box Fans | [Orlando Guide](https://www.wangdadi.xyz/power/florida-orlando) |
+| **FL** | **Jacksonville** | Coastal Nor'easters & Storm Surge | 36 – 72 Hours | **1500Wh+** | Kitchen Essentials + CPAP Backup | [Jacksonville Guide](https://www.wangdadi.xyz/power/florida-jacksonville) |
 | **TX** | **Houston** | Gulf Hurricanes & Winter Freezes | 48 – 120 Hours | **2000Wh+ (Expandable)** | Deep Freezer + Oxygen Concentrator | [Houston Guide](https://www.wangdadi.xyz/power/texas-houston) |
 | **TX** | **Dallas** | Sub-Zero Freezing Rain / Ice Load | 24 – 72 Hours | **1500Wh+** | 1500W Space Heater (Low) + Wi-Fi | [Dallas Guide](https://www.wangdadi.xyz/power/texas-dallas) |
 | **TX** | **Austin** | Grid Capacity Strain & Ice Storms | 36 – 96 Hours | **1000Wh – 2000Wh** | Home Office Station + Starlink Dish | [Austin Guide](https://www.wangdadi.xyz/power/texas-austin) |
+| **TX** | **San Antonio** | 100°F+ Summer Heat & Transformer Load | 24 – 48 Hours | **2000Wh+** | High-Temp Charging + Food Storage | [San Antonio Guide](https://www.wangdadi.xyz/power/texas-san-antonio) |
+| **TX** | **Fort Worth** | Spring Tornado Outbreaks & Hail | 24 – 48 Hours | **1500Wh+** | Basement Sump Pump + Emergency Radio | [Fort Worth Guide](https://www.wangdadi.xyz/power/texas-fort-worth) |
 | **CA** | **Los Angeles** | Santa Ana Wind PSPS & Wildfires | 24 – 48 Hours | **1000Wh – 2000Wh** | Air Purifier (HEPA) + Food Storage | [LA Guide](https://www.wangdadi.xyz/power/california-los-angeles) |
-| **CO** | **Denver** | High-Altitude Blizzards / Camping | 12 – 36 Hours | **1000Wh (Cold-Resistant)**| Electric Heating Blanket + Comms | [Denver Guide](https://www.wangdadi.xyz/power/colorado-denver) |
-| **UT** | **Moab** | Desert Heat & Off-Grid Isolation | 24 – 48 Hours | **1000Wh + 400W Solar** | 12V 45L Portable Fridge/Freezer | [Moab Guide](https://www.wangdadi.xyz/power/utah-moab) |
-
+| **CA** | **San Diego** | Backcountry Wildfire Shutoffs | 24 – 48 Hours | **1000Wh – 1500Wh** | Medical Nebulizers + Home Modem | [San Diego Guide](https://www.wangdadi.xyz/power/california-san-diego) |
+| **CA** | **Sacramento** | Winter Atmospheric River Floods | 48 – 96 Hours | **1500Wh – 2000Wh** | Garage Freezer + Drainage Sump | [Sacramento Guide](https://www.wangdadi.xyz/power/california-sacramento) |
+| **LA** | **New Orleans** | Major Hurricane Landfalls | 72 – 168 Hours | **2000Wh+ (Solar Essential)** | Sump Pump + Refrigerator (Multi-Day) | [New Orleans Guide](https://www.wangdadi.xyz/power/louisiana-new-orleans) |
+| **NC** | **Raleigh** | Hurricane Remnants & Winter Ice | 36 – 72 Hours | **1000Wh – 2000Wh** | Electric Blankets + Dehumidifier | [Raleigh Guide](https://www.wangdadi.xyz/power/north-carolina-raleigh) |
+| **GA** | **Atlanta** | Heavy Freezing Rain on Tree Canopy | 24 – 48 Hours | **1000Wh – 1500Wh** | Bedroom CPAP + Family Communications | [Atlanta Guide](https://www.wangdadi.xyz/power/georgia-atlanta) |
+| **AZ** | **Phoenix** | 115°F Heatwaves & Haboob Dust Outages | 12 – 36 Hours | **2000Wh+ (Thermal Dissipation)** | Evaporative Swamp Cooler + Misting Fan | [Phoenix Guide](https://www.wangdadi.xyz/power/arizona-phoenix) |
+| **NV** | **Las Vegas** | Desert Heat Wave Grid Tripping | 12 – 24 Hours | **1000Wh – 2000Wh** | Condo Refrigerator + Induction Cooktop | [Las Vegas Guide](https://www.wangdadi.xyz/power/nevada-las-vegas) |
+| **SC** | **Charleston** | King Tides & Tropical Storm Surges | 48 – 96 Hours | **1500Wh+ (Wheeled Chassis)** | Emergency Sump Pump + Evacuation Gear | [Charleston Guide](https://www.wangdadi.xyz/power/south-carolina-charleston) |
+| **MN** | **Minneapolis** | -20°F Polar Vortex Freezes | 24 – 72 Hours | **1500Wh+ (Cold-Rated Battery)** | Furnace Circulating Blower + Heat Pads | [Minneapolis Guide](https://www.wangdadi.xyz/power/minnesota-minneapolis) |
+| **CO** | **Denver** | High-Altitude Spring Blizzards | 12 – 36 Hours | **1000Wh (Cold-Resistant)** | Electric Heating Blanket + Comms | [Denver Guide](https://www.wangdadi.xyz/power/colorado-denver) |
 ---
 
 ## 🧮 Appliance Load Estimation Formulas
